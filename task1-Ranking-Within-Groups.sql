@@ -1,3 +1,4 @@
+
 -- Task 1: Ranking Within Groups
 
 WITH customer_spending AS (

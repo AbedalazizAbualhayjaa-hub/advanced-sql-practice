@@ -1,6 +1,6 @@
 # Advanced SQL Practice Tasks
 
-This repository contains my solutions for the Advanced SQL Practice Tasks.
+This repository contains solutions for the Advanced SQL Practice Tasks.
 
 ## Topics
 
